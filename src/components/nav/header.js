@@ -81,7 +81,7 @@ class Header extends Component {
         <p onClick={this.callAddFestivalComponent.bind(this)}>Festival hinzufügen</p>
         </div>
         {/*<button id="nav-image"> <img src={menu} alt="menu"/> </button>*/}
-        <Suche changeStateDisplay={this.props.changeStateDisplay} changeStateData={this.props.changeStateData} ></Suche>
+        <Suche changeStateDisplay={this.props.changeStateDisplayInBody} changeStateData={this.props.changeStateData} ></Suche>
         </div>
     );
   }
