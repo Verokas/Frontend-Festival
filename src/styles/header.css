@@ -1,0 +1,25 @@
+.header {
+    padding-top: 1px;
+    height: 40vh;
+    color: #fff;
+    background-color: #000;
+    border-top: 0.1px solid #fff;
+}
+
+.navbar {
+    position: fixed;
+    height: 15vh;
+    background-color: #000;
+    margin-top: 0.1px;
+}
+
+h2 {
+ position: fixed;
+    text-align: center;
+    width: 100%;
+    margin-top: 0em;
+    font-size: 4vw;
+}
+
+
+
